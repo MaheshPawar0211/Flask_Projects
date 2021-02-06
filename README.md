@@ -1,5 +1,5 @@
 How to Create Virtual Environment for Flask project
-pip install virtualenv
-python -m venv flask-env
-.\flask-env\Scripts\activate
-pip install Flask-RESTful
+1) pip install virtualenv
+2) python -m venv flask-env
+3) .\flask-env\Scripts\activate
+4) pip install Flask-RESTful
